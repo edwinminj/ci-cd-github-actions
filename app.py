@@ -1,1 +1,1 @@
-print("Hello from CI/CD pipeline 🚀")
+print("CI/CD updated successfully 🚀")
